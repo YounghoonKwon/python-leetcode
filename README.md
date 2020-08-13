@@ -1,1 +1,2 @@
-# python-leetcode
+# Leetcode practice using python
+
